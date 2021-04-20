@@ -7,7 +7,7 @@
 </head>  
 <body>  
     <div id="login">  
-        <h1>Login</h1>  
+        <h1>Admin User Login</h1>  
         <form method="post">  
             <input type="text" required="required" placeholder="用户名" name="u"></input>  
             <input type="password" required="required" placeholder="密码" name="p"></input>  
